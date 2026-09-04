@@ -3,6 +3,6 @@
 
 This project uses the Maven Analytics Toy Store E-Commerce dataset, which contains website sessions, pageviews, orders, order items, products, and refund data.
 
-Dataset source: [Maven Analytics – Toy Store E-Commerce Database](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database)
+Dataset source: [Link](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database)
 
 The raw dataset is not included in this repository. Download the files from the link above and upload them to a Databricks Unity Catalog Volume before running the notebooks.
