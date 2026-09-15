@@ -9,6 +9,6 @@ The raw dataset is not included in this repository. Download the files from the 
 
 ## Analytics Dashboard
 
-An interactive Databricks AI/BI dashboard was created using the Gold-layer tables to monitor revenue, orders, units sold, profit, product performance, traffic channels and landing-page bounce rates.
+A Databricks AI/BI dashboard was created using Gold-layer tables to visualize revenue, orders, units sold, profit, product performance, traffic channels and landing-page bounce rates.
 
 ![E-Commerce Analytics Dashboard](images/ecommerce_dashboard.png)
